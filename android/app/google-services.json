@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "688813427052",
+    "firebase_url": "https://getfitbymk.firebaseio.com",
+    "project_id": "getfitbymk",
+    "storage_bucket": "getfitbymk.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:688813427052:android:d2ce6455fb8b20e0cc0b49",
+        "android_client_info": {
+          "package_name": "com.dieting.fluttergetfit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "688813427052-khtc7ueljpj36h99cdb7a6bpsg28ug61.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dieting.fluttergetfit",
+            "certificate_hash": "688ab6be5752f1612e19e9789cd3831b7cd87e45"
+          }
+        },
+        {
+          "client_id": "688813427052-13jdrhgvns8pov52a4eka56pfg54o4v3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjR0oPGpfBNuEoZcwiGrzQJzhMWjWJOQI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "688813427052-13jdrhgvns8pov52a4eka56pfg54o4v3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
