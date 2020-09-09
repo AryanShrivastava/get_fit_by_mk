@@ -131,7 +131,7 @@ class AboutUs extends StatelessWidget {
       ),
       body: Container(
         child: image,
-        
+        color: Colors.white,
       ),
     );
   }
