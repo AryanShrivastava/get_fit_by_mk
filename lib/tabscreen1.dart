@@ -67,7 +67,7 @@ class _TabScreen1 extends State<TabPage1> {
             ],
             onTabChangedListener: (position) {
               setState(() {
-                
+                currentPage = position;
               });
             },
           )),
